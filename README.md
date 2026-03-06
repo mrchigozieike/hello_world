@@ -1,10 +1,20 @@
 # Hello World – Python
 
+
 ## Overview
 This project is a simple "Hello World" program written in Python.  
 It was created as part of CSE 310: Applied Programming to demonstrate a working development environment and proper GitHub submission process.
 
 The program prints a greeting message to the console.
+
+| Task                               | Time Spent |
+| ---------------------------------- | ---------- |
+| Create Hello World program         | 30 minutes |
+| Create GitHub repository on GitHub | 20 minutes |
+| Write README.md                    | 40 minutes |
+| Record video demo                  | 30 minutes |
+| Upload project and video           | 20 minutes |
+
 
 ## Development Environment
 - Visual Studio Code
